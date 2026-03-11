@@ -28,3 +28,14 @@ It displays system metrics in the terminal using progress bars and trend graphs 
 
 ```bash
 chmod +x system_monitor.sh
+```
+
+2. Run the script:
+
+```bash
+./system_monitor.sh
+```
+
+3. Open the generated dashboard:
+
+```dashboard.html```
